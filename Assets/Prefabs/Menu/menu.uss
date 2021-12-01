@@ -1,0 +1,31 @@
+.start-button {
+    color: rgb(255, 255, 255);
+    -unity-text-align: upper-right;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-left-width: 25px;
+    border-right-width: 3px;
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+    font-size: 22px;
+    background-color: rgb(70, 86, 99);
+    border-left-color: rgb(60, 72, 79);
+    border-right-color: rgb(60, 72, 79);
+    border-top-color: rgb(60, 72, 79);
+    border-bottom-color: rgb(60, 72, 79);
+    width: 40%;
+    -unity-text-outline-width: 0;
+    text-shadow: 0 0 3px rgba(0, 0, 0, 0.58);
+    -unity-font-style: normal;
+}
+
+.start-button:hover {
+    color: rgba(226, 164, 108, 255);
+    background-color: rgba(119, 130, 140, 255);
+    border-left-color: rgba(40, 47, 51, 255);
+    border-right-color: rgba(40, 47, 51, 255);
+    border-top-color: rgba(40, 47, 51, 255);
+    border-bottom-color: rgba(40, 47, 51, 255);
+}
